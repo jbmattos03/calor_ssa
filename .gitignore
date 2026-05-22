@@ -1,1 +1,9 @@
 .venv/
+*.csv
+*.xlsx
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.zip
